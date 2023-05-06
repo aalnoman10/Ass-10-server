@@ -1,6 +1,6 @@
 # The China Kitchen
 
-The project is called "The China Kitchen" and is a APi built with Express.js.
+The project is called "TheChinaKitchen" and is a APi built with Express.js.
 
 ## Live API Link
 
@@ -13,4 +13,4 @@ The live site for "The China Kitchen" can be found at [The China Kitchen](https:
 
 ## Credits 
 
-This project was created by [Al Noman] and [The China Kitchen API].
+This project was created by [AlNoman] and [The China Kitchen API].
